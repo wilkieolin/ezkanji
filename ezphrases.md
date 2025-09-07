@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Useful Phrases"
+permalink: /ezphrases/
+---
+
 # Crash Course for Travel
 
 It's nice to always have a few key phrases ready to go when you're visiting somewhere you don't speak the language. 
@@ -14,7 +20,8 @@ This is the "basic" version which uses the phonetic Japanse syllabary (kana), an
 English pronunciation
 This is an approximation of how you can say it using English letters. 
 
-All of these different writings will sound the same and have some audio examples included - slow and normal speed. 
+Audio samples
+Two audio samples you can listen to and practice with.
 
 ## Greetings
 
@@ -24,6 +31,16 @@ All of these different writings will sound the same and have some audio examples
 こんにちは (kana)
 
 kon ni chi wa (pronunciation)
+
+<video controls width="300" height="50">
+  <source src="/sounds/konnichiwa/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/konnichiwa/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 You can somewhat literally translate this as "how's today?" A nice, formal greeting you can use when passing people going up and down stairs to a temple or on a hike. If you're out in the sticks it's more common to have passers by greet you like this, and you can just say "konnichiwa" back. 
 
@@ -35,6 +52,17 @@ You can somewhat literally translate this as "how's today?" A nice, formal greet
 
 kon ban wa
 
+<video controls width="300" height="50">
+  <source src="/sounds/konbanwa/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/konbanwa/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+
 Like "how's today" but "how's tonight?" Use this instead of konnichiwa after the sun has set. 
 
 ### Hello / good morning
@@ -43,6 +71,16 @@ Like "how's today" but "how's tonight?" Use this instead of konnichiwa after the
 
 o ha yoo go zai mas
 
+<video controls width="300" height="50">
+  <source src="/sounds/ohayou/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/ohayou/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
 This one is a little different. "Ohayou" is just a way to say "good morning." "Gozaimass" is basically an extra word you add on to be polite. If you're being casual, you can just say ohayo, but adding gozaimas makes it more formal. 
 
 ### Goodbye
@@ -50,6 +88,16 @@ This one is a little different. "Ohayou" is just a way to say "good morning." "G
 さようなら
 
 sa yoo na ra
+
+<video controls width="300" height="50">
+  <source src="/sounds/sayounara/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/sayounara/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 "Sayonara!" We're familiar with this one in English already, and you can use it in Japanese too with a slightly different pronunciation and emphasis. This one is a fairly good catch-all for saying bye, but it contains a challenge: an *r*
 
@@ -67,6 +115,16 @@ Basically, to pronounce this sound, start making an "l" sound with the tongue at
 
 su mi mas en
 
+<video controls width="300" height="50">
+  <source src="/sounds/sumimasen/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/sumimasen/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
 It's inevitable that while traveling you'll accidentally do something rude. Get confused, not know how something works, sit in the wrong place on a train... the options are endless. In that case, just pull this one out. Sumimasen! 
 
 ### Sorry
@@ -75,6 +133,16 @@ It's inevitable that while traveling you'll accidentally do something rude. Get 
 
 Go men na sai
 
+<video controls width="300" height="50">
+  <source src="/sounds/gomennasai/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/gomennasai/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
 This is good when we need to up our apology a little bit - it's closer to *sorry*. You can bow with either sumimasen or gomennasai, with the depth (and number) of bows corresponding roughly to your degree of regret and sorrowfulness. 
 
 ### Thank you
@@ -82,6 +150,16 @@ This is good when we need to up our apology a little bit - it's closer to *sorry
 ありがとうございます
 
 a ri ga tou go zai mas
+
+<video controls width="300" height="50">
+  <source src="/sounds/arigatou_gozaimasu/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/arigatou_gozaimasu/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 Thank you! This one is very frequent - buying something at a konbini, thanking a waiter, buying a ticket - arigatou gozaimas. You can challenge yourself by getting it to roll off the tongue quickly, or just shorten it down to arigatou. 
 
@@ -92,6 +170,16 @@ Thank you! This one is very frequent - buying something at a konbini, thanking a
 よろしくおねがいします
 
 yo ro shi ku o ne gai shi mas
+
+<video controls width="300" height="50">
+  <source src="/sounds/yoroshiku_onegaishimasu/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/yoroshiku_onegaishimasu/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 Meeting somebody for the first time? Yoroshiku onegaishimas! We'll see this phrase "onegaishimas" repeated in a few places after this, so get used to it - it basically means "please."
 
@@ -105,17 +193,47 @@ Meeting somebody for the first time? Yoroshiku onegaishimas! We'll see this phra
 
 ko re, o ne gai shi mas
 
+<video controls width="300" height="50">
+  <source src="/sounds/kore_onegaishimasu/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/kore_onegaishimasu/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
 A lot of places have menus in English or displays which you can point at to order. Just point and add this phrase to complete an order. You can even add "and" ("と/to") between different things to stack up an order!
 
 これと…これ、おねがいします。
 
 ko re to... ko re, o ne gai shi mas
 
+<video controls width="300" height="50">
+  <source src="/sounds/kore_onegaishimasu/100_f_bonus.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/kore_onegaishimasu/100_m_bonus.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
 ### Can I use a credit card?
 
 カードでいいですか？
 
 kaa do day ii des ka
+
+<video controls width="300" height="50">
+  <source src="/sounds/kaado_de_ii/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/kaado_de_ii/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 Japan is supposed to be the land of the future, but it's very selective in its adoption of the newfangled. Pray that you don't have to ever fax a form or use a hanko seal during your time there - it's still necessary for a lot of things! Similarly, a lot of smaller shops and stands will be cash-only. So, if you're not sure, ask - "kaa do day ii des ka?" Is using a credit card ok?
 
@@ -131,6 +249,16 @@ Sometimes, you need an exit strategy. These phrases should help out.
 
 ni hon go o ha na shi ma sen.
 
+<video controls width="300" height="50">
+  <source src="/sounds/nihongo_hanashimasen/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/nihongo_hanashimasen/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
 I don't speak Japanese! You can, optionally, combine this with a *sorry*. *Gomennasai! Nihongo o hanashimasen.* Let's combine this with two other options to form our conversational retreat strategy:
 
 ### Do you speak English?
@@ -140,6 +268,16 @@ I don't speak Japanese! You can, optionally, combine this with a *sorry*. *Gomen
 えいごをはなしますか？
 
 ay go o ha na shi mas ka?
+
+<video controls width="300" height="50">
+  <source src="/sounds/eego_hanashimasuka/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/eego_hanashimasuka/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 A lot of people in cities will speak English to a varying degree, but farther out in the countryside - and with older people - many don't. You can ask politely with this phrase!
 
@@ -151,6 +289,16 @@ A lot of people in cities will speak English to a varying degree, but farther ou
 
 su ma ho day hon ya ku shi mas.
 
+<video controls width="300" height="50">
+  <source src="/sounds/sumaho_honyaku/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/sumaho_honyaku/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
 If you can't bridge the linguistic divide from either side, this is your best option. Download Google translate on your phone and keep a spare battery at hand - between maps, translating, and taking photos, you're going to need the spare charge. 
 
 ## Addendum
@@ -161,11 +309,31 @@ If you can't bridge the linguistic divide from either side, this is your best op
 
 hai!
 
+<video controls width="300" height="50">
+  <source src="/sounds/hai/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/hai/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
 ### No
 
 いいえ
 
 iie.
+
+<video controls width="300" height="50">
+  <source src="/sounds/iie/100_f.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
+
+<video controls width="300" height="50">
+  <source src="/sounds/iie/100_m.mp3" type="audio/mpeg">
+  Your browser does not support the video tag.
+</video>
 
 ## Congratulations
 

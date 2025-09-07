@@ -1,7 +1,9 @@
-tiny-日本語
+---
+title: Home
+layout: home
+---
 
-[Useful Kanji](ezkanji.md)
-
-[Useful Phrases](phrases.md)
+- [Useful Kanji](/ezkanji/)
+- [Useful Phrases](/ezphrases/)
 
 That's all!

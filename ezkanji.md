@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Useful Kanji"
+permalink: /ezkanji/
+---
+
 Japan has four-ish writing systems: hiragana, katakana, romanji, and kanji. 
 
 - Hiragana（ひらがな）: these curly little guys are used for phonetic spellings of words and to glue sentences together.
