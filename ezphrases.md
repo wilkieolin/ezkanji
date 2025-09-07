@@ -11,22 +11,26 @@ Here's a dozen-ish Japanese phrases which might come in handy. We'll break down 
 
 We'll present each phrase in the following order:
 
-漢字　(kanji)
+### 漢字　(kanji)
+
 This is the "grown up" version of writing where you have to know what sound the Chinese-derived ideogram makes in this sentence and with the characters around it. Some phrases don't have kanji.
 
-かな (kana)
+### かな (kana)
+
 This is the "basic" version which uses the phonetic Japanse syllabary (kana), and is what kids use until they learn the Kanji.
 
-English pronunciation
-This is an approximation of how you can say it using English letters. 
+### English pronunciation
 
-Audio samples
+This is an approximation of how you can say it using English letters. I exclude some silent letters and make slight changes from the ["normal"](https://en.wikipedia.org/wiki/Hepburn_romanization) transliterations since we're taking it easy here. 
+
+### Audio samples
+
 Two audio samples you can listen to and practice with.
 
 ## Greetings
 
 ### Hello / good day
-今 日 は (kanji)
+今日は (kanji)
 
 こんにちは (kana)
 
@@ -46,7 +50,7 @@ You can somewhat literally translate this as "how's today?" A nice, formal greet
 
 ### Hello / good evening
 
-今　晩　は
+今晩は
 
 こんばんは
 
@@ -81,7 +85,7 @@ o ha yoo go zai mas
   Your browser does not support the video tag.
 </video>
 
-This one is a little different. "Ohayou" is just a way to say "good morning." "Gozaimass" is basically an extra word you add on to be polite. If you're being casual, you can just say ohayo, but adding gozaimas makes it more formal. 
+This one is a little different. "Ohayou" is just a way to say "good morning." "Gozaimas" is basically an extra word you add on to be polite. If you're being casual, you can just say ohayo, but adding gozaimas makes it more formal. 
 
 ### Goodbye
 
@@ -99,7 +103,7 @@ sa yoo na ra
   Your browser does not support the video tag.
 </video>
 
-"Sayonara!" We're familiar with this one in English already, and you can use it in Japanese too with a slightly different pronunciation and emphasis. This one is a fairly good catch-all for saying bye, but it contains a challenge: an *r*
+"Sayonara!" We're familiar with this one in English already, and you can use it in Japanese too with a slightly different pronunciation and emphasis. This one is a fairly good catch-all for saying goodbye, but it contains a challenge: an *r*
 
 ## The Japanese R
 
@@ -113,7 +117,7 @@ Basically, to pronounce this sound, start making an "l" sound with the tongue at
 
 すみません
 
-su mi mas en
+su mi ma sen
 
 <video controls width="300" height="50">
   <source src="/sounds/sumimasen/100_f.mp3" type="audio/mpeg">
@@ -131,7 +135,7 @@ It's inevitable that while traveling you'll accidentally do something rude. Get 
 
 ごめんなさい
 
-Go men na sai
+go men na sai
 
 <video controls width="300" height="50">
   <source src="/sounds/gomennasai/100_f.mp3" type="audio/mpeg">
@@ -223,7 +227,7 @@ ko re to... ko re, o ne gai shi mas
 
 カードでいいですか？
 
-kaa do day ii des ka
+kaa do de ii des ka
 
 <video controls width="300" height="50">
   <source src="/sounds/kaado_de_ii/100_f.mp3" type="audio/mpeg">
@@ -235,7 +239,7 @@ kaa do day ii des ka
   Your browser does not support the video tag.
 </video>
 
-Japan is supposed to be the land of the future, but it's very selective in its adoption of the newfangled. Pray that you don't have to ever fax a form or use a hanko seal during your time there - it's still necessary for a lot of things! Similarly, a lot of smaller shops and stands will be cash-only. So, if you're not sure, ask - "kaa do day ii des ka?" Is using a credit card ok?
+Japan is supposed to be the land of the future, but it's very selective in its adoption of the newfangled. Pray that you don't have to ever fax a form or use a hanko seal during your time there - it's still necessary for a lot of things! Similarly, a lot of smaller shops and stands will be cash-only. So, if you're not sure, ask - "kaa do de ii des ka?" Is using a credit card ok?
 
 ## Giving up
 

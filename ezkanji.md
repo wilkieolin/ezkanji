@@ -7,11 +7,11 @@ permalink: /ezkanji/
 Japan has four-ish writing systems: hiragana, katakana, romanji, and kanji. 
 
 - Hiragana（ひらがな）: these curly little guys are used for phonetic spellings of words and to glue sentences together.
-- Katakana（カタカナ）: these represent the exact same 26 syllables as hiragana, but with sharp, angular symbols to make them more *masculine*. At least, that's how it started out, but now katakana are mostly used to spell out foreign loan words and onomatopoeia like "kaboom." 
-- Romanji（ロマン時）: Roman or "English" letters, because you're also expected to be able to read these in today's modern society. 
-- Kanji　(漢字): The big, complex, many-lined ideograms which number in the thousands and defeat even the most dedicated students of Japanese. 
+- Katakana（カタカナ）: these represent the exact same syllables as hiragana, but with sharp, angular symbols to make them more *masculine*. At least, that's how it started out, but now katakana are mostly used to spell out foreign loan words and onomatopoeia like "kaboom." 
+- Romaji（ローマ字）: Roman or "English" letters, because you're also expected to be able to read these in today's modern, international society. 
+- Kanji　(漢字): The big, complex, many-lined ideograms adopted and modified from Chinese. These number in the thousands and defeat even the most dedicated students of Japanese. We'll just look at 15 today.
 
-A lot of signs and controls in Japan are written in Kanji. Thankfully, there's some which you see more often than others. Here's my select, chef's choice, **useful Kanji for tourists**. Some come in pairs, and some are loners. 
+A lot of signs and controls in Japan are written in Kanji. Thankfully, there's some which you see more often than others. Here's my select, chef's choice, **useful Kanji for tourists** along with some handy mnemonics for decoding them. Some come in pairs, and some are loners. 
 
 # 大 (Big) & 小 (Small)
 
@@ -23,7 +23,7 @@ Sometimes, there are places you shouldn't go, or things you need to stop. Not su
 
 # 開 (Open) & 閉 (Close)
 
-In Japan, a big person is a responsible person (大人しい). Responsible people can be trusted with elevator door controls which *actually work*. Newer controls often have universal, arrow-based symbols on them, but older Showa-era elevators and other doors with class still use kanji. So, what's a door? It's also a gate (門). When the gate is open, you can hang a nice, inviting lantern in it (開) to show it's open. When it's closing time, you smash that lantern as you close the gate. Now the lantern is smaller and mangled (閉). Whoops!
+In Japan, a big person is a well-behaved person (大人しい). Responsible people can be trusted with elevator door controls which *actually work*. Newer controls often have universal, arrow-based symbols on them, but older Showa-era elevators and other doors with class still use kanji. So, what's a door? It's also a gate (門). When the gate is open, you can hang a nice, inviting lantern in it (開) to show it's open. When it's closing time, you smash that lantern as you close the gate. Now the lantern is smaller and mangled (閉). Whoops!
 
 # 入 (Enter) & 出 (Exit)
 
