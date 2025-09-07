@@ -25,7 +25,7 @@ This is an approximation of how you can say it using English letters. I exclude 
 
 ### Audio samples
 
-Two audio samples you can listen to and practice with.
+Two audio samples you can listen to and practice with. All voice samples were synthesized using [Kokoro-Fast](https://github.com/remsky/Kokoro-FastAPI).
 
 ## Greetings
 
